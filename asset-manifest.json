@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/raniducoding/static/css/main.7a068677.css",
-    "main.js": "/raniducoding/static/js/main.444a4baf.js",
+    "main.js": "/raniducoding/static/js/main.057f5463.js",
     "index.html": "/raniducoding/index.html",
     "main.7a068677.css.map": "/raniducoding/static/css/main.7a068677.css.map",
-    "main.444a4baf.js.map": "/raniducoding/static/js/main.444a4baf.js.map"
+    "main.057f5463.js.map": "/raniducoding/static/js/main.057f5463.js.map"
   },
   "entrypoints": [
     "static/css/main.7a068677.css",
-    "static/js/main.444a4baf.js"
+    "static/js/main.057f5463.js"
   ]
 }
